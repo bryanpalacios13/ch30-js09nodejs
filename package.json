@@ -1,0 +1,27 @@
+{
+  "name": "js09-nodejs",
+  "version": "1.0.1",
+  "description": "Uso de Node y Asios",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Holi Crayoli\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/bryanpalacios13/ch30-js09nodejs.git"
+  },
+  "keywords": [
+    "axios",
+    "bootstrap",
+    "generation"
+  ],
+  "author": "Bryan Palacios",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bryanpalacios13/ch30-js09nodejs/issues"
+  },
+  "homepage": "https://github.com/bryanpalacios13/ch30-js09nodejs#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.1"
+  }
+}
